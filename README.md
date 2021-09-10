@@ -2,7 +2,7 @@
 # TAMAGACHA
 ![mit](https://img.shields.io/badge/license-MIT-blue)
 
-## Deployed Link: [**TAMAGACHA**](https://tamagacha.herokuapp.com/)
+## Deployed Link: [**TAMAGACHA**](https://still-reef-05985.herokuapp.com/)
 
 
 > **TAMAGACHA** 
